@@ -2,6 +2,7 @@ name: "ESSHomePermission"
 version: "1.0.0-SNAPSHOT"
 api-version: "1.19"
 main: "net.okocraft.esshomepermission.ESSHomePermissionPlugin"
+folia-supported: true
 author: "LazyGon"
 
 depend: [ "Essentials" ]
